@@ -1,0 +1,15 @@
+enter the phone number of customer :8341598566
+enter the name of the customer :Akhila
+enter the address of the customer :N.R.Peta
+enter the number of oil packets :5
+enter the number of salt packets :6
+enter the number of sugar packets :4
+enter the number of soap packets :5
+enter the number of detergents :1
+enter coupon code :DIWALI
+customer phone number 8341598566
+customer name Akhila
+customer address N.R.Peta
+tax= 1540.0
+bill= 1400
+discount 56.0
